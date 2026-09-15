@@ -1,0 +1,21 @@
+# Log files, local history, and user-specific configurations
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usages/
+.idea/dictionaries/
+.idea/shelf/
+
+# AWS Toolkit user settings
+.idea/aws.xml
+
+# Storage for local data sources (Database tools)
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/dataSources.ids
+
+# End of file deployment configurations
+.idea/deployment.xml
+
+# To completely ignore everything under .idea/ (Optional fallback)
+# Only uncomment the line below if you don't want to share ANY settings with your team
+# .idea/
